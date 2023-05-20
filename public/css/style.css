@@ -1,0 +1,47 @@
+.banner
+{
+    height: 70px;
+	width: 100%;
+    background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+
+}
+
+
+.tagline
+{
+    color: #fff;
+}
+
+.form-content, .selectpicker
+{
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+
+.form-control, .selectpicker{
+    border-radius: 0.5rem;
+}
+
+
+.btnreset
+{
+    border:none;
+	border-radius:1.5rem;
+    padding: 1%;
+    width: 10%;
+    cursor: pointer;
+	background: #17a2b8;
+    color: #fff;
+}
+
+.btnSubmit
+{
+    border:none;
+	border-radius:1.5rem;
+    padding: 1%;
+    width: 10%;
+    cursor: pointer;
+    background: #0062cc;
+    color: #fff;
+}
